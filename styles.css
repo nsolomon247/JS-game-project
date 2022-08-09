@@ -19,7 +19,7 @@
         gap: 50px;
     }
 
-    li {
+    ul {
 
         list-style: none;
 
@@ -30,7 +30,9 @@
         border: 2px solid black;
 
     }
-
+    .hidden{
+        display: none;
+    }
     button:hover {
         background-color: lightcyan;
     }
