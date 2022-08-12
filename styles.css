@@ -1,3 +1,15 @@
+.container {
+    background-color: lightblue;
+    border: 2px solid black;
+
+}
+
+.hidden{
+    display: none;
+}
+
+
+
 @media only screen and (max-width: 500px) {
 
     body {
